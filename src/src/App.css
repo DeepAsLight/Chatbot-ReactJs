@@ -1,0 +1,11 @@
+input::placeholder {
+  color: #c2ceda;
+}
+
+input:focus-visible {
+  outline: none;
+}
+
+input:hover{
+  background-color: azure;
+}
